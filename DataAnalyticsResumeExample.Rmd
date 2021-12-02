@@ -76,29 +76,26 @@ B.A. in Environmental Studies
 
 Oberlin, OH
 
-Research Experience {data-icon=flask}
---------------------------------------------------------------------------------
 2008--2013
 
-### Graduate Research Assistant
+## Refereed Journal Publications {data-icon="book-open"}
 
-Tufts University
+### Risk-sensitive safety analysis using Conditional Value-at-Risk
 
-Medford, MA
+M. P. Chapman, R. Bonalli, **K. M. Smith**, I. Yang, M. Pavone, C. J. Tomlin
 
-2014--2019
+[10.1109/TAC.2021.3131149](https://doi.org/10.1109/TAC.2021.3131149)
 
-- Developed research questions 
-- Provided additional guidance for undergraduate mentors
+2021 IEEE TAC
 
+### Classical Risk-Averse Control for a Finite-Horizon Borel Model
 
+M. P. Chapman, **K. M. Smith**
 
-Selected Project Experience {data-icon=chalkboard-teacher}
---------------------------------------------------------------------------------
+[10.1109/LCSYS.2021.3114126](https://doi.org/10.1109/LCSYS.2021.3114126)
 
-### DATA-200 Foundations of Data Analyics 
+2021 IEEE LCSYS
 
-Tufts University
 
 ### Addressing Complex Challenges in Coupled Natural and Human Systems Through Principled Pragmatism
 
