@@ -9,43 +9,32 @@ output:
     css: small_sidebar.css
 ---
 
-Aside
-================================================================================
+# Aside
+
+![Data](outfall.jpg){width="100%"} <!-- ![Data](`r here::here("data_icon.png")`) -->
+
+## Contact Info {#contact}
+
+-   <i class="fa fa-envelope"></i> \| [kevin.smith\@tufts.edu](mailto:kevin.smith@tufts.edu){.email}
+-   <i class="fa fa-github"></i> \| [Kevin-M-Smith](https://github.com/Kevin-M-SMith/)
+-   <i class="fa fa-robot"></i> \| [stormwater.io](https://stormwater.io)
+
+## Skills {#skills}
+
+______
+
+__In The Lab__
+
+R, MATLAB/GNU Octave, C#, SQL; HPC & cloud
+
+______
+
+__In The Field__
+
+field methods, sensor and data logger design, serial protocols, wireless telemetry
 
 
-![Data](data_icon.png){width=30%}
-<!-- ![Data](`r here::here("data_icon.png")`) -->
-
-
-
-Contact Info {#contact}
---------------------------------------------------------------------------------
-
-- <i class="fa fa-envelope"></i>kyle.monahan@tufts.edu
-- <i class="fa fa-github"></i> [github.com/kylemonahan/](https://github.com/kylemonahan/)
-- <i class="fa fa-phone"></i> +1 123-456-7891
-
-
-Skills {#skills}
---------------------------------------------------------------------------------
-
-- Experienced in running multivariate regression. 
-
-- List your **key skills**, linked to the job description.
-
-- Performing **data analysis**, with a focus on engineering models
-
-- Experienced in **data communication** and client relations
-
-- Wrote production-level **R/Python/Stata/SQL** 
-
-- **Machine Learning** on cloud platforms (AWS)
-
-
-
-
-Disclaimer {#disclaimer}
---------------------------------------------------------------------------------
+## Disclaimer {#disclaimer}
 
 <!--This resume was made with the R package [**pagedown**](https://github.com/rstudio/pagedown).-->
 
@@ -107,40 +96,38 @@ Selected Project Experience {data-icon=chalkboard-teacher}
 
 Tufts University
 
-Medford, MA
+### Addressing Complex Challenges in Coupled Natural and Human Systems Through Principled Pragmatism
 
-2016--2018
+__K. M. Smith__, W. Palash, E. Choudhury, S. Islam
 
-<!--::: concise-->
-- Deployed a project which predicted likelihood of house purchase with 89% accuracy on data from Boston in 2019.
-- Iterated the model to select the best approach, given neural net, random forest and logistic regression.
-<!--:::-->
+[10.3389/frwa.2021.61725](https://doi.org/10.3389/frwa.2021.617255)
 
+2021 Frontiers in Water
 
 
+### Forecasting Energy Consumption of Multi-family Residential Buildings Using Support Vector Regression
 
-### Other project
+ R. K. Jain, __K. M. Smith__, P. J. Culligan, J. E. Taylor
 
-Tufts University
+[10.1016/j.apenergy.2014.02.057](https://doi.org/10.1016/j.apenergy.2014.02.057)
 
-Medford, MA
-
-2015 -- 2018
-
-- Evaluated 
-- Deployed
-- Managed 
-- Use your action verbs! Attend the Crafting Your Data Science Resume workshop by Kyle Monahan
+2014 Applied Energy
 
 
+## Refereed Conference Publications {data-icon="chalkboard-teacher"}
 
-Selected Presentations {data-icon=comment-alt}
---------------------------------------------------------------------------------
-### DATA-200 Final Project
-Presented a model for housing price detection, and summarized main results and assumptions of the model to my cohort. 
+### A Risk-Sensitive Finite-Time Reachability Approach for Safety of Stochastic Dynamic Systems
 
-Medford, MA
+M. P. Chapman, J. Lacotte, A. Tamar, D. Lee, **K. M. Smith**, V. Cheng, J. F. Fisac, S. Jha, M. Pavone, C. J. Tomlin
 
-March 2019
+[10.23919/ACC.2019.8815169](https://doi.org/10.23919/ACC.2019.8815169)
 
+2019 American Control Conference
 
+### Reachability Analysis as a Design Tool for Stormwater Systems
+
+M. P. Chapman, **K. M. Smith**, V. Cheng, D. L. Freyberg, C. J. Tomlin
+
+[10.1109/SusTech.2018.8671362](https://doi.org/10.1109/SusTech.2018.8671362)
+
+2018 IEEE SusTech
