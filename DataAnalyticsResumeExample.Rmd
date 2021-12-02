@@ -40,41 +40,45 @@ field methods, sensor and data logger design, serial protocols, wireless telemet
 
 Last updated on `r Sys.Date()`.
 
+# Main
 
+## Kevin M. SMith {#title}
 
-Main
-================================================================================
+### PhD. Candidate in Environmental & Water Resources Engineering
 
-Kyle Monahan {#title}
---------------------------------------------------------------------------------
+### NSF NRT Fellow in Data-Driven Decision-Making
 
-### Data Analytics student seeking Spring 2020 internship
+### NSF IGERT Fellow in Water and Diplomacy
 
+_____
 
-Education {data-icon=graduation-cap data-concise=true}
---------------------------------------------------------------------------------
+## Education {data-icon="graduation-cap" data-concise="true"}
 
 ### Tufts University
 
-MS Candidate in Data Analysis
+PhD Candidate, Environmental and Water Resources Engineering
 
 Medford, MA
 
-2014--Current
+2013--Current
 
+### Columbia University
 
-### Undergraduate University
+B.S. in Earth and Environmental Engineering
 
-B.A. in Finance
+New York, NY
 
-Troy, NY 
+2011--2013
 
-2008--2012
+### Oberlin College
 
+B.A. in Environmental Studies
 
+Oberlin, OH
 
 Research Experience {data-icon=flask}
 --------------------------------------------------------------------------------
+2008--2013
 
 ### Graduate Research Assistant
 
